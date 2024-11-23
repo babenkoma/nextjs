@@ -1,0 +1,18 @@
+{
+	"header": {
+		"title": "Home"
+	},
+	"footer": {
+		"copyright": "Next.js"
+	},
+	"notFound": {
+		"title": "Oops... We can't find the page you're looking for.",
+		"text": "But don't worry, you can go to the home page.",
+		"button": "Home page"
+	},
+	"errorBlock": {
+		"title": "Oops... Something went wrong!",
+		"text": "But we are already repairing it. Try again later.",
+		"button": "Reload page"
+	}
+}
