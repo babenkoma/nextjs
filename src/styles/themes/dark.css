@@ -1,0 +1,8 @@
+.dark {
+	--background: #000000;
+	--foreground: #ffffff;
+	--primary: #1f76e9;
+	--primary-foreground: #000000;
+	--secondary: #e64641;
+	--secondary-foreground: #000000;
+}

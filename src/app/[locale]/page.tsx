@@ -3,6 +3,7 @@ import { Metadata, ResolvingMetadata } from 'next';
 import { MainLayout } from '@/layouts/main';
 import { PageProps } from '@/app/types';
 import { Link } from '@/library/locales';
+import { Button } from '@/library/shadcn';
 
 interface Props {
 	h1: string;
@@ -36,7 +37,10 @@ export default async function Page(): Promise<ReactElement> {
 	return (
 		<MainLayout>
 			<h1>{h1}</h1>
-			<Link href="/about">About</Link>
+			<Button>Button</Button>
+			<p>
+				<Link href="/about">About</Link>
+			</p>
 		</MainLayout>
 	);
 }

@@ -27,5 +27,8 @@ npm-debug.log*
 # typescript
 next-env.d.ts
 
+# storybook
+public/storybook
+
 # project
 /tmp

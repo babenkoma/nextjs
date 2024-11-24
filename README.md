@@ -14,12 +14,14 @@
 ## Technology stack
 
 -   [Typescript](https://typescriptlang.org/) - project language
--   [React](https://react.dev/) - library for user interface
+-   [React](https://react.dev/) - library for UI
 -   [Next.js](https://nextjs.org/) - React framework
 -   [Prettier](https://prettier.io/) - library for code formatting
 -   [Eslint](https://eslint.org/) - library for code analysis
 -   [Vitest](https://vitest.dev/) - testing framework
--   [Next Intl](https://next-intl-docs.vercel.app/) - Internationalization library for Next.js
+-   [Next Intl](https://next-intl-docs.vercel.app/) - internationalization library for Next.js
+-   [Shadcn/ui](https://ui.shadcn.com/) - collection of re-usable components
+-   [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 
 ## Installation
 

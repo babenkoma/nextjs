@@ -8,6 +8,12 @@ export function Header(): ReactElement {
 	return (
 		<header>
 			<p>{siteTitle}</p>
+			<p>
+				<a href={'/en'}>EN</a>
+			</p>
+			<p>
+				<a href={'/uk'}>UK</a>
+			</p>
 		</header>
 	);
 }
